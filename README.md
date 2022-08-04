@@ -17,7 +17,11 @@ In the Jupyter Notebook, you will leearn how I carried out the following steps f
 # REMARK
 Some of the insights I generated are stated below:   
     1. Based on the demographics of the survey respondents, we can infer that the survey is somewhat representative of          the overall programming community, although it definitely has fewer responses from programmers who are women &          non-binary genders
+    
     2. Most programmers hold a college degree, although a fairly large percentage did not have computer science as their        major in college, so a computer science degree isn’t compulsory for learning to code or building a career in            programming.
+    
     3. JavaScript, C#, Java and SQL were the most used languages by professional developer, followed by python in 2017.
-    4. The average salaries range is between ~150K to ~180K. Most popular languages as JavaScript, C#, Java, SQL and            Python we found in the first question seem to be in the middle of the range, and that’s expected! because the            more people who knows that language mean less rareness.
-    5. From the model analysis of Salary prediction from the given numerical data in the 2017 dataset , it was shown            that CareerSatisfaction has the highest correlation fit with salary and multiple linear regression model is the          best fit to predict salary of developers from the given data.
+   
+   4. The average salaries range is between ~150K to ~180K. Most popular languages as JavaScript, C#, Java, SQL and            Python we found in the first question seem to be in the middle of the range, and that’s expected! because the            more people who knows that language mean less rareness.
+   
+   5. From the model analysis of Salary prediction from the given numerical data in the 2017 dataset , it was shown            that CareerSatisfaction has the highest correlation fit with salary and multiple linear regression model is the          best fit to predict salary of developers from the given data.
