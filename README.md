@@ -16,7 +16,7 @@ In the Jupyter Notebook, you will leearn how I carried out the following steps f
 
 # REMARK
 Some of the insights I generated are stated below:   
-    1. Based on the demographics of the survey respondents, we can infer that the survey is somewhat representative of          the overall programming community, although it definitely has fewer responses from programmers who are women &          non-binary genders
+    * Based on the demographics of the survey respondents, we can infer that the survey is somewhat representative of          the overall programming community, although it definitely has fewer responses from programmers who are women &          non-binary genders
     
     2. Most programmers hold a college degree, although a fairly large percentage did not have computer science as their        major in college, so a computer science degree isn’t compulsory for learning to code or building a career in            programming.
     
