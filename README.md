@@ -10,3 +10,4 @@ In the Jupyter Notebook, you will leearn how I carried out the following steps f
   5. Model development
 
 # Tableau dashboard visualization
+(dashboard.PNG)
