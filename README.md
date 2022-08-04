@@ -12,7 +12,7 @@ In the Jupyter Notebook, you will leearn how I carried out the following steps f
 # Tableau dashboard visualization
 ![my image](dashboard.PNG)
 
-[Click here](#) to view dashboard
+[Click here](https://public.tableau.com/app/profile/jimoh.endurance/viz/starkoverflow/Dashboard1?publish=yes) to view dashboard
 
 # REMARK
 Some of the insights I generated are stated below:   
@@ -28,7 +28,7 @@ Some of the insights I generated are stated below:
 *  From the model analysis of Salary prediction from the given numerical data in the 2017 dataset , it was shown            that CareerSatisfaction has the highest correlation fit with salary and multiple linear regression model is the          best fit to predict salary of developers from the given data.
 
 # Relevant Links
-*[Tableau Dashboard](#)
+*[Tableau Dashboard](https://public.tableau.com/app/profile/jimoh.endurance/viz/starkoverflow/Dashboard1?publish=yes)
 
 *[Personal Website](#)
 
