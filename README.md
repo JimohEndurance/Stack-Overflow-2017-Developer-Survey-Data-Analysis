@@ -27,6 +27,16 @@ Some of the insights I generated are stated below:
     
 *  From the model analysis of Salary prediction from the given numerical data in the 2017 dataset , it was shown            that CareerSatisfaction has the highest correlation fit with salary and multiple linear regression model is the          best fit to predict salary of developers from the given data.
 
+# Relevant Links
+*[Tableau Dashboard](#)
+
+*[Personal Website](#)
+
+*[LinkedIn](#)
+
+*[Twitter](#)
+
+
     
 
 
