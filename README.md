@@ -30,11 +30,11 @@ Some of the insights I generated are stated below:
 # Relevant Links
 *[Tableau Dashboard](https://public.tableau.com/app/profile/jimoh.endurance/viz/starkoverflow/Dashboard1?publish=yes)
 
-*[Personal Website](#)
+*[Personal Website](https://endurancejim.github.io/portfolio.html)
 
-*[LinkedIn](#)
+*[LinkedIn](https://www.linkedin.com/in/jimoh-endurance-949a0a231)
 
-*[Twitter](#)
+*[Twitter](https://mobile.twitter.com/eddygonero)
 
 
     
